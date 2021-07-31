@@ -33,11 +33,11 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/Lawa0921/
+facebook: Lawa0921
 # twitter: mytwitter
-instagram: https://www.instagram.com/lin_chi_ting/
+instagram: lin_chi_ting
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/gorden-ting/
+linkedin: gorden-ting
 # youtube: myyoutube
 # spotify: myspotify
 github: Lawa0921
@@ -46,7 +46,7 @@ github: Lawa0921
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: https://medium.com/%E5%BB%A2%E7%89%A9%E5%88%B0%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E9%80%B2%E5%8C%96%E9%81%8E%E7%A8%8B
+medium: %E5%BB%A2%E7%89%A9%E5%88%B0%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E9%80%B2%E5%8C%96%E9%81%8E%E7%A8%8B
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: bag571ivy3470@gmail.com
@@ -57,7 +57,7 @@ authors:
     bio: 露營區管理人 + 工程師 + 爸爸，斜槓中
     external-image: false
     picture: assets/images/avatar.jpg
-    facebook: https://www.facebook.com/Lawa0921/
+    facebook: Lawa0921
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
